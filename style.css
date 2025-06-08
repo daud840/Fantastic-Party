@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    padding: 10px;
+    background-color: blue;
+    border-radius: 10px;
+    color: white;
+}
+header a{
+    color: white;
+}
+h1 {
+    color: rgb(23, 0, 235);
+    font-size: 40px;
+    text-align: center;
+}
+footer{
+    background-color: aliceblue;
+    padding: 2px;
+}
+footer p{
+    background-color: white;
+    padding: 2px;
+}
+
+pr{
+    background-color: darkgreen;
+    margin: 20px;
+}
+
+
+.product {
+    background-color: chartreuse;
+    padding: 10px;
+}
+
+h2{
+    color: blue;
+}
+.border_img{
+    border: 1px solid turquoise;
+    border-radius: 10px;
+}
